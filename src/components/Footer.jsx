@@ -66,12 +66,15 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2026 ApartaFind. All rights reserved.</p>
+          <p>© 2026 <strong>BMITRESKI</strong> · ApartaFind. All rights reserved.</p>
           <div className="footer-bottom-links">
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
             <a href="#">Cookie Policy</a>
           </div>
+        </div>
+        <div className="footer-copyright-bar">
+          © 2026 BMITRESKI — All content, design, and intellectual property on this site is the exclusive property of BMITRESKI. Unauthorized reproduction or distribution is prohibited.
         </div>
       </div>
     </footer>

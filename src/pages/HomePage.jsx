@@ -88,6 +88,7 @@ export default function HomePage() {
 
         <div className="hero-content">
           <p className="hero-eyebrow">New York's #1 Apartment Finder</p>
+          <p className="page-copyright-badge">© BMITRESKI</p>
           <h1 className="hero-title">
             Find Your Perfect<br />
             <span className="hero-title-accent">Home Today</span>

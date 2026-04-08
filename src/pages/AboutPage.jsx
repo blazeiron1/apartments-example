@@ -43,6 +43,7 @@ export default function AboutPage() {
     <>
       <section className="page-hero">
         <div className="page-hero-inner">
+          <p className="page-copyright-badge">© BMITRESKI</p>
           <p className="section-eyebrow">About Us</p>
           <h1 className="page-hero-title">We Help People Find Home</h1>
           <p className="page-hero-subtitle">

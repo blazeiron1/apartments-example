@@ -55,6 +55,7 @@ export default function ContactPage() {
     <>
       <section className="page-hero">
         <div className="page-hero-inner">
+          <p className="page-copyright-badge">© BMITRESKI</p>
           <p className="section-eyebrow">Get In Touch</p>
           <h1 className="page-hero-title">We'd Love to Hear From You</h1>
           <p className="page-hero-subtitle">

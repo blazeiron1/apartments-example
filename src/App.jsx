@@ -11,6 +11,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Navbar />
+      <div className="bmitreski-watermark" />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/apartments" element={<ApartmentsPage />} />

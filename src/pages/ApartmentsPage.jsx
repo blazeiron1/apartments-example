@@ -61,6 +61,7 @@ export default function ApartmentsPage() {
     <>
       <SearchBar filters={filters} onChange={setFilters} />
       <main className="main">
+        <p className="page-copyright-badge apartments-copyright">© BMITRESKI</p>
         <div className="listings-header">
           <p className="listings-count">
             {filtered.length} apartment{filtered.length !== 1 ? "s" : ""} found
